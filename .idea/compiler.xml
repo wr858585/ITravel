@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="meinian_interface" />
+        <module name="meinian_pojo1" />
+        <module name="meinian_web1" />
+        <module name="dubbodemo_interface" />
+        <module name="dubbodemo_provider" />
+        <module name="meinian_pojo" />
+        <module name="meinian_common" />
+        <module name="meinian_web" />
+        <module name="meinian_service" />
+        <module name="meinian_dao" />
+        <module name="meinian_interface1" />
+        <module name="meinian_service1" />
+        <module name="dubbodemo_consumer" />
+        <module name="meinian_common1" />
+        <module name="meinian_dao1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

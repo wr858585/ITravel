@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../dubbodemo_consumer" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../meinian_parent/meinian_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../meinian_parent/meinian_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../meinian_parent1/meinian_service1" />
+    <file type="web" url="file://$PROJECT_DIR$/../meinian_parent1/meinian_web1" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbodemo_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbodemo_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../meinian_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../meinian_parent1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
